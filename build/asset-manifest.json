@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f6d3b0a.css",
+    "main.js": "/static/js/main.97f2dffe.js",
+    "static/media/waving-hi.gif": "/static/media/waving-hi.a148f6632e5b907634c3.gif",
+    "static/media/giphy.webp": "/static/media/giphy.90bdc09776cfaf224d12.webp",
+    "static/media/settings.gif": "/static/media/settings.77cf613888d9c633280d.gif",
+    "static/media/exampleExcel.png": "/static/media/exampleExcel.7747e149d4b5a270adba.png",
+    "static/media/404.svg": "/static/media/404.bdf1c60c297dc6528f56fe6a382dacdf.svg",
+    "index.html": "/index.html",
+    "main.5f6d3b0a.css.map": "/static/css/main.5f6d3b0a.css.map",
+    "main.97f2dffe.js.map": "/static/js/main.97f2dffe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f6d3b0a.css",
+    "static/js/main.97f2dffe.js"
+  ]
+}
